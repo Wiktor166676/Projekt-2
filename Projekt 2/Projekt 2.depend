@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609687133 source:c:\users\wikto\desktop\algorytmy projekt 2\projekt 2\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<bits/stdc++.h>
+	<vector>
+	<string>
+
